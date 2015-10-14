@@ -5,6 +5,17 @@ $text-color: #46433A;
 $anchor-text-color: #CE534D;
 $background-color: #F1EED9;
 
+
+/* Colors */
+$twitter:        #6dabda;
+$linkedin:       #2b77b1;
+$google-plus:    #c95644;
+$github:         #f6c2a4;
+$stack-overflow: #c98b3b;
+$rss:            #eea33a;
+
+
+
 body {
 	font-family: 'Vollkorn', serif;
 	color: $text-color;
@@ -19,6 +30,51 @@ main {
 /*** wrapper div for both header and main ***/
 .wrapper {
 	margin-top: 10%;
+}
+
+.links {
+	margin-top: 50px;
+	text-align: center;
+
+	i {
+		padding-left: 5px;
+		padding-right: 5px;
+
+		@media (min-width: $screen-sm-min) {
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+	}
+
+	.fa {
+		-webkit-transition: 0.3s;
+		-moz-transition: 0.3s;
+		transition: 0.3s;
+	}
+
+	.fa-twitter:hover {
+		color: $twitter;
+	}
+
+	.fa-linkedin:hover {
+		color: $linkedin;
+	}
+
+	.fa-google-plus:hover {
+		color: $google-plus;
+	}
+
+	.fa-github-alt:hover {
+		color: $github;
+	}
+
+	.fa-stack-overflow:hover {
+		color: $stack-overflow;
+	}
+
+	.fa-rss:hover {
+		color: $rss;
+	}
 }
 
 /*** anchor tags ***/
