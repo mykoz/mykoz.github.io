@@ -6,8 +6,8 @@ baseurl: ''
 twitter_username: mykoz
 github_username:  mykoz
 linkedin_link: https://www.linkedin.com/in/mzhang89
-google_plus_link: https://plus.google.com/
-stackoverflow_link: http://stackoverflow.com/
+google_plus_link: 
+stackoverflow_link: 
 
 # compass configuration
 compass:
