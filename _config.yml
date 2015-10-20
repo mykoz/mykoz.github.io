@@ -3,11 +3,34 @@ url: http://mykoz.github.io
 baseurl: ''
 
 # social usernames/URLs
-twitter_username: mykoz
-github_username:  mykoz
-linkedin_link: https://www.linkedin.com/in/mzhang89
-google_plus_link: 
-stackoverflow_link: 
+#twitter_username: mykoz
+#github_username:  mykoz
+#linkedin_link: https://www.linkedin.com/in/mzhang89
+#google_plus_link: 
+#stackoverflow_link:
+# Site owner
+owner:
+  name: Michael Zhang
+  avatar: #bio-photo.jpg
+  email: zhang.michael89@gmail.com
+  disqus-shortname:
+  twitter: mykoz
+  facebook: #username
+  github: mykoz
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: mzhang89
+  instagram: ohmykoz
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify: 
 
 # compass configuration
 compass:

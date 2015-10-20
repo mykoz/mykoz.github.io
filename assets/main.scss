@@ -114,6 +114,20 @@ footer {
 	height: 20px;
 }
 
+/*
+   Social media icons
+   ========================================================================== */
+
+.social-icons {
+  margin: 1em 0 2em;
+  a {
+    padding: 4px 8px;
+    &:hover {
+      color: $black;
+    }
+  }
+}
+
 .poweredby {
 	font-family: "Arial Narrow", Arial;
 	font-size: 0.6em;
