@@ -19,7 +19,7 @@ owner:
   github: mykoz
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: mzhang89
-  instagram: ohmykoz
+  instagram: mykoz
   flickr: #username
   tumblr: #username
   pinterest: #username
@@ -32,7 +32,7 @@ owner:
     ad-slot:
   bing-verify: 
 
-# compass configuration
+# compass confilguration
 compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
